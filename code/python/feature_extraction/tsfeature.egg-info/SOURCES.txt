@@ -1,0 +1,11 @@
+setup.py
+tsfeature/__init__.py
+tsfeature/feature_core.py
+tsfeature/feature_fft.py
+tsfeature/feature_time.py
+tsfeature.egg-info/PKG-INFO
+tsfeature.egg-info/SOURCES.txt
+tsfeature.egg-info/dependency_links.txt
+tsfeature.egg-info/entry_points.txt
+tsfeature.egg-info/requires.txt
+tsfeature.egg-info/top_level.txt
