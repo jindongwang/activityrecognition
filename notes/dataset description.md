@@ -48,13 +48,13 @@
         - [6.2描述](#62描述)
         - [6.3引用此数据集的文章](#63引用此数据集的文章)
 
-###1.Opportunity
+### 1.Opportunity
 
-####1.1网址与下载
+#### 1.1网址与下载
 
 [Opportunity](https://archive.ics.uci.edu/ml/datasets/OPPORTUNITY+Activity+Recognition)
 
-####1.2描述
+#### 1.2描述
 
 数据集包括4个用户的6种大类（track）的将近100种行为：
 这6个track及其行为是：
@@ -165,7 +165,7 @@
 
 4.除去label列，数据一行有250列，其中第1列是时间戳，第2-243是数据列，244-250是label列。
 
-####1.3引用此数据集的文章
+#### 1.3引用此数据集的文章
 
 **First party** 
 
@@ -217,13 +217,13 @@ Here are a few of the papers from third parties using the OPPORTUNITY dataset:
 [103] D. Gordon, J. Czerny, M. Beigl. Activity Recognition for Creatures of Habit: Energy-Efficient Embedded Classification using Prediction. Personal and Ubiquitous Computing, 2013.
 
 
-###2.UCI daily and sports dataset
+### 2.UCI daily and sports dataset
 
-####2.1网址与下载
+#### 2.1网址与下载
 
 [UCI daily and sports dataset](http://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities)
 
-####2.2描述
+#### 2.2描述
 
 （1）运动人数：8人(4 female, 4 male, between the ages 20 and 30)
 
@@ -312,7 +312,7 @@ Here are a few of the papers from third parties using the OPPORTUNITY dataset:
 
 【处理过的特征文件获取，请联系jindongwang@outlook.com索取】
 
-####2.3引用此数据集的文章
+#### 2.3引用此数据集的文章
 
 [1] K. Altun, B. Barshan, and O. Tunçel,
 Comparative study on classifying human activities with miniature inertial and magnetic sensors.Pattern Recognition, 43(10):3605-3620, October 2010.
@@ -327,12 +327,12 @@ Comparative study on classifying human activities with miniature inertial and ma
 
 在同一个行为识别数据集上进行了多种机器学习算法的性能比较,在降维中除了使用PCA，还加入了SFFS，在小样本集中SFFS有更好的效果。
 
-###3.Activity recognition from single chest-mounted accelerometer data set
+### 3.Activity recognition from single chest-mounted accelerometer data set
 
-####3.1网址与下载
+#### 3.1网址与下载
 [Activity recognition from single chest-mounted accelerometer data set](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer)
 
-####3.2描述
+#### 3.2描述
 
 传感器：加速度传感器
 
@@ -363,7 +363,7 @@ label，其中label列的数字表示为
 
 7: Talking while Standing
 
-####3.3引用此数据集的文章
+#### 3.3引用此数据集的文章
 
 [1]Casale, P. Pujol, O. and Radeva, P. BeaStreamer-v0.1: a new platform for Multi-Sensors Data Acquisition in Wearable Computing Applications, CVCRD09, ISBN: 978-84-937261-1-9, 2009
 
@@ -377,13 +377,13 @@ label，其中label列的数字表示为
 
 使用两种不同的数据集基于两个阶段进行行为识别，第一阶段是用特定用户的小样本进行分类，第二阶段是属于一类分类问题，建立四层结构来解决
 
-###4.Gas sensors for home activity monitoring Data Set
+### 4.Gas sensors for home activity monitoring Data Set
 
-####4.1网址与下载
+#### 4.1网址与下载
 
 [Gas sensors for home activity monitoring Data Set](https://archive.ics.uci.edu/ml/datasets/Gas+sensors+for+home+activity+monitoring)
 
-####4.2描述
+#### 4.2描述
 
 样本数量：919438
 
@@ -432,19 +432,19 @@ HT_Sensor_dataset.dat每列属性：
 https://github.com/thmosqueiro/ENose-Decorr_Humdt_Temp
 压缩包：ENose-Decorr_Humdt_Temp-master.zip】
 
-####4.3引用此数据集的文章
+#### 4.3引用此数据集的文章
 
 [1] Ramon Huerta, Thiago Mosqueiro, Jordi Fonollosa, Nikolai Rulkov, Irene Rodriguez-Lujan. Online Decorrelation of Humidity and Temperature in Chemical Sensors for Continuous Monitoring. Chemometrics and Intelligent Laboratory Systems 2016.
 
 测试了湿度和温度传感器在模式识别中的效果。
 
-###5.Human activity recognition using smartphones data set
+### 5.Human activity recognition using smartphones data set
 
-####5.1网址与下载
+#### 5.1网址与下载
 
 [Human activity recognition using smartphones data set](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-####5.2描述
+#### 5.2描述
 
 样本数量：10299
 
@@ -464,7 +464,7 @@ https://github.com/thmosqueiro/ENose-Decorr_Humdt_Temp
 
 更新的数据集：Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set，在这个数据集中作者在已有的六个活动基础上增加了stand-to-sit, sit-to-stand, sit-to-lie, lie-to-sit, stand-to-lie, and lie-to-stand.这些状态改变的样本，并且此数据集的数据为原始数据，而不是预处理后的数据。
 
-####5.3引用此数据集的文章
+#### 5.3引用此数据集的文章
 
 [1]Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
@@ -478,13 +478,13 @@ https://github.com/thmosqueiro/ENose-Decorr_Humdt_Temp
 
 在数据集上用不同机器学习算法测试正确率.
 
-###6.Heterogeneity activity recognition data set
+### 6.Heterogeneity activity recognition data set
 
-####6.1网址与下载
+#### 6.1网址与下载
 
 [Heterogeneity activity recognition data set](https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Recognition)
 
-####6.2描述
+#### 6.2描述
 
 样本数量：43930257
 
@@ -503,7 +503,7 @@ Activity recognition exp.zip包含了不同设备、不同传感器的行为数�
 
 Still exp.zip增加了手机放置的位置，不同位置下包含了多种设备所采集的行为数据
 
-####6.3引用此数据集的文章
+#### 6.3引用此数据集的文章
 
 [1] Allan Stisen, Henrik Blunck, Sourav Bhattacharya, Thor Siiger Prentow, Mikkel Baun Kjærgaard, Anind Dey, Tobias Sonne, and Mads Møller Jensen. Smart Devices are Different: Assessing and Mitigating Mobile Sensing Heterogeneities for Activity Recognition. In Proc. 13th ACM Conference on Embedded Networked Sensor Systems (SenSys 2015), Seoul, Korea, 2015.
 
