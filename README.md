@@ -34,5 +34,14 @@
 
 [行为识别特征提取代码](https://github.com/jindongwang/activityrecognition/tree/master/code)
 
+### 如何参与贡献 Contributing
+
+- 正常参与：请直接fork、pull都可以
+- 如果要上传文件：请***不要***直接上传到项目中，否则会造成git版本库过大。正确的方法是上传它的**超链接**。如果你要上传的文件本身就在网络中（如paper都会有链接），直接上传即可；如果是自己想分享的一些文件、数据等，鉴于国内网盘的情况，请按照如下方式上传：
+	- 首先在[UPLOAD](https://my.pcloud.com/#page=puplink&code=4e9Z0Vwpmfzvx0y2OqTTTMzkrRUz8q9V) 直接上传（**不**需要注册账号）
+	- 上传成功后，在[DOWNLOAD](https://my.pcloud.com/publink/show?code=kZWtboZbDDVguCHGV49QkmlLliNPJRMHrFX)里找到你刚上传的文件，共享链接即可。
+
+Welcome!
+
 > ***[文章版权声明]这篇文档是我开源到github上的，可以遵守相关的开源协议进行使用，如果使用时能加上我的名字就更好了。这个仓库中包含有很多研究者的论文、硕博士论文等，都来源于在网上的下载，我对一些文章都作了注解，有可能会很好地帮助理解。对于这些文章的版权属于相应的出版社。如果作者或出版社有异议，请联系我进行删除（本来应该只放文章链接的，但是由于时间关系来不及）。一切都是为了更好地学术！***
 
