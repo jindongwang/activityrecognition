@@ -14,13 +14,13 @@
 
 [近几年国际会议关于行为识别文章与简介](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%AE%BA%E6%96%87list.md)
 
-[深度学习用于行为识别文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
+[深度学习用于行为识别文章总结 (Deep learning for activity recognition)](https://github.com/jindongwang/activityrecognition/blob/master/notes/deep.md)
 
 [用智能手机做行为识别文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%81%9A%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
 
 [与位置相关的行为识别文章](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E4%B8%8E%E4%BD%8D%E7%BD%AE%E7%9B%B8%E5%85%B3%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
 
-[迁移学习用于行为识别](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%94%A8%E4%BA%8E%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
+[迁移学习用于行为识别 (Transfer learning for activity recognition)](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%94%A8%E4%BA%8E%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
 
 [我们课题组关于行为识别的文章](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%AF%BE%E9%A2%98%E7%BB%84%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB%E8%AE%BA%E6%96%87.md)
 
@@ -30,9 +30,9 @@
 
 [课题组研究项目简介](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E8%AF%BE%E9%A2%98%E7%BB%84%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE%E4%B8%8E%E4%BA%BA%E7%89%A9%E6%8E%A8%E8%8D%90.md)
 
-[公开数据集整理](https://github.com/jindongwang/activityrecognition/blob/master/notes/dataset%20description.md)
+[公开数据集整理 (Public datasets for activity recognition)](https://github.com/jindongwang/activityrecognition/blob/master/notes/dataset%20description.md)
 
-[行为识别特征提取代码](https://github.com/jindongwang/activityrecognition/tree/master/code)
+[行为识别特征提取代码 (Codes for feature extraction)](https://github.com/jindongwang/activityrecognition/tree/master/code)
 
 ### 如何参与贡献 Contributing
 
