@@ -16,6 +16,8 @@
 
 [深度学习用于行为识别文章总结 (Deep learning for activity recognition)](https://github.com/jindongwang/activityrecognition/blob/master/notes/deep.md)
 
+[深度学习用于行为识别代码 (Deep learning codes)](https://github.com/jindongwang/Deep-learning-activity-recognition)
+
 [用智能手机做行为识别文章总结](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%81%9A%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
 
 [与位置相关的行为识别文章](https://github.com/jindongwang/activityrecognition/blob/master/notes/%E4%B8%8E%E4%BD%8D%E7%BD%AE%E7%9B%B8%E5%85%B3%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB.md)
