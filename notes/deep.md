@@ -2,7 +2,6 @@
 
 Here we provide a list of Must-read papers about deep learning for activity recognition. The references are based on this survey: [Deep Learning for Sensor-based Activity Recognition: A Survey](https://arxiv.org/abs/1707.03502)
 
-[Ordered by their citations]
 
 1. **Feature learning for activity recognition in ubiquitous computing[C]**
 
@@ -321,11 +320,5 @@ Here we provide a list of Must-read papers about deep learning for activity reco
 	Morales F J O, Roggen D
 
 	Proceedings of the 2016 ACM International Symposium on Wearable Computers. ACM, 2016: 92-99.
-
-
-
-
-
-
 
 	
