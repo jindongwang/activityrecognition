@@ -8,6 +8,12 @@
 
 关于时域和频域具体特征的计算方法请见我在知乎的这个回答：https://www.zhihu.com/question/41068341/answer/89926233
 
+### 推荐使用
+
+[一个简洁明了的时间序列处理(分窗、特征提取、分类)库：Seglearn](https://dmbee.github.io/seglearn/index.html)
+
+用这个库会比用我们下面提供的自己写的方便！
+
 ### Python版本
 
 - - -
