@@ -23,22 +23,27 @@ Python版本比较通用，也比较好扩展。目前刚放到pypi下，可能 
 内核提取方法针对Python2和Python3一样通用。`test.py`文件是按照Python3格式写的，无伤大雅。
 
 #### 需求：
+
 pip install numpy
 
 #### 调用方式（直接拷贝）：
+
 1. 拷贝`feature_extraction`文件夹到你的目录（通常是你的特征提取代码目录）下；
 2. 在同一层目标下，首先导入引用：
 
 `from feature_extraction import feature_core`
 
 然后有两种调用方式：
+
 (1) 有窗口：`feature_core.sequence_feature(a, 5, 4)`，表示对a这个数组按照窗口大小为5,步长为4进行特征提取
+
 (2) 无窗口：`feature_core.sequence_feature(a, 0, 4)`，表示直接对a这个数组进行特征提取，它本身就是一个窗口。
 
 #### 返回：
 一个2D的numpy.array
 
 #### 调用方式（pip）：
+
 `pip install tsfeature`
 `import tsfeature.feature_core`
 
@@ -48,7 +53,9 @@ pip install numpy
 目前提取了19维特征，可以直接扩展`feature_time.py`和`feature_fft.py`文件中的函数，加上自己在时域和频域上的特征提取方案。
 
 附本代码中提取到的19维特征：
+
 （1）时域：均值，方差，标准差，最大值，最小值，过零点个数，最大值与最小值之差，众数
+
 （2）频域：直流分量，图形的均值、方差、标准差、斜度、峭度，幅度的均值、方差、标准差、斜度、峭度
 
 - - -
@@ -58,3 +65,9 @@ pip install numpy
 - - -
 
 Matlab版本的特征提取代码见它目录像下的readme。在Matlab版本R2014a及以上均通用。不过建议还是用python，更好用一些。
+
+- - -
+
+### 结果评价
+
+行为识别是一个分类问题，评价效果的好坏通常不只看精度，还要看准确率、召回率、F1、特异性等。我们提供一个计算所有结果的函数：[Evaluate.m](https://github.com/jindongwang/activityrecognition/tree/master/code/Evaluate.m)。
