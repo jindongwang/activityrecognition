@@ -310,7 +310,7 @@ Here are a few of the papers from third parties using the OPPORTUNITY dataset:
 
 30维特征文件一行有32列，前30列为特征，第31列为label（1-19），第32列来标识是哪个人（1-8）.
 
-【处理过的特征文件获取，请联系jindongwang@outlook.com索取】
+处理过的特征文件：[下载](https://pan.baidu.com/s/1DJtv_f9a9basfPTi8iEJLQ)
 
 #### 2.3引用此数据集的文章
 
